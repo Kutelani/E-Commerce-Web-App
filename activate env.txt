@@ -1,0 +1,8 @@
+ecom\Scripts\activate
+
+admin
+email address: admin@sales.com
+password: Admin@Sales
+
+
+adding to github.
